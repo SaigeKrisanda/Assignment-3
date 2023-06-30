@@ -39,7 +39,10 @@ This project was developed using HTML, CSS, & JavaScript.
 ![image](https://github.com/SaigeKrisanda/CS601-JavaScript-Alerts/assets/133738778/b6ccce84-bf23-43a2-9dd5-445eb476fd7e)
 
 
-#### How To Run
+### URL to Run Site 
+
+https://cs601-javascript-alerts.netlify.app/
+
 
 
 
