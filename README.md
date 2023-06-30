@@ -2,7 +2,7 @@
 
 _Last updated: 29 June 2023_
 
-Assignment for CS601 Web Application Development. Excersize in JavaScript, with HTML and CSS.  Program accomplishes the following:
+Assignment for CS601 Web Application Development. Exercise in JavaScript, with HTML and CSS.  Program accomplishes the following:
 
 -Welcomes the visitor with an alert
 
@@ -10,7 +10,7 @@ Assignment for CS601 Web Application Development. Excersize in JavaScript, with 
 
 -Displays their name with a welcome message 
 
---Begins Addition Excersize--
+--Begins Addition Exercise--
 
 -Asks the user for 2 numbers that will be added and returns the result 
 
